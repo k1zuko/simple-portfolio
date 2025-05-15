@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Muhammad Khoirul Huda",
+    "label": "Junior Cyber Security",
+    "image": "/me_avatar.jpg",
+    "email": "muhammadhuda537@gmail.com",
+    "phone": "+6282230395944",
+    "url": "https://k1zuko.github.io",
+    "summary": "Junior Cyber Security yang berfokus pada bidang Web Exploitation dan Cryptography. Sekarang lebih berfokus pada Web Development.",
+    "theme": "default",
+    "location": {
+      "address": "Turen, Kabupaten Malang",
+      "postalCode": "65175",
+      "city": "Jawa Timur",
+      "countryCode": "ID",
+      "region": "Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "m-kh-huda",
+        "url": "https://linkedin.com/in/m-kh-huda"
+      },
+      {
+        "network": "Instagram",
+        "username": "k1zuko._",
+        "url": "https://instagram.com/k1zuko._"
+      },
+      {
+        "network": "GitHub",
+        "username": "k1zuko",
+        "url": "https://github.com/k1zuko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SMKN 1 Gedangan",
+      "position": "Junior Cyber Security",
+      "location_type": "On site",
+      "location": "Gedangan, Kabupaten Malang",
+      "startDate": "2023-10-01",
+      "endDate": "2025-04-25",
+      "summary": "Jeopardy berfokus pada Web Exploitation dan Cryptography. Attack & Defense berfokus pada menyerang target musuh.",
+      "responsibilities": [
+        "Kolaborasi bersama tim untuk menyerang target ataupun memperbaiki kode untuk mencegah kerentanan."
+      ],
+      "achievements": [
+        "Berhasil Meraih Juara 1 LKS Cyber Security Tingkat Kabupaten Bersama Revaldo Ardiyansah."
+      ],
+      "skills": [
+        "Python",
+        "PHP",
+        "SQL",
+        "Laravel",
+        "GitHub",
+        "C",
+        "Node.Js"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Badan Dakwah Islam",
+      "position": "Anggota",
+      "startDate": "2022-08-01",
+      "endDate": "2024-01-01",
+      "summary": "Meningkatkan IMTAQ yang berfokus pada kegiatan sholawat bersama seperti Terbangan."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SMKN 1 GEDANGAN",
+      "url": "https://smkn1gedangan-malang.sch.id/",
+      "area": "Sistem Informatika, Jaringan, dan Aplikasi",
+      "studyType": "Sekolah Menengah Kejuruan",
+      "startDate": "2022-07-01",
+      "endDate": "2026-06-01",
+      "score": "",
+      "courses": [
+        "SIJA - CyberSecurity",
+        "SIJA - Web Development",
+        "SIJA - DevOps"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "LOMBA KOMPETENSI SISWA (LKS) TINGKAT PROVINSI JAWA TIMUR TAHUN 2025 KE-33",
+      "date": "2025-04-25",
+      "issuer": "Dinas Pendidikan Provinsi Jawa Timur",
+      "url": "https://drive.google.com/file/d/1WnlWb0jDc09_6vfqOHi0T7jY187Vnp1T/view?usp=drive_link"
+    },
+    {
+      "name": "JUNIOR CYBERSECURITY COMPETITION 2024",
+      "date": "2024-10-24",
+      "issuer": "Dinas Komunikasi dan Informatika Provinsi Jawa Timur",
+      "url": "https://drive.google.com/file/d/12OcXysFL86uJop5rWiMnTilrh4LF8xqV/view?usp=drive_link"
+    },
+    {
+      "name": "CCNA: Introduction to Networks",
+      "date": "2025-02-23",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://drive.google.com/file/d/1UpHFE9-B6w-lKBShC4WPhobOettjRAXq/view?usp=drive_link"
+    },
+    {
+      "name": "MTCNA",
+      "date": "2025-02-19",
+      "issuer": "Mikrotikls SIA",
+      "url": "https://drive.google.com/file/d/1BR8JChTifmpvT74Tw_WSvWmmxylglii1/view?usp=drive_link"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Moderate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Indonesia",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Web Development",
+        "Web Exploitation",
+        "Cryptography"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Muhammad Khoirul Huda",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AdminLTE",
+      "isActive": false,
+      "description": "Membuat management data siswa sederhana",
+      "highlights": [
+        "Dibuat dengan HTML, CSS, JS, PHP, MYSQL"
+      ],
+      "url": "https://localhost",
+      "github": "https://github.com"
+    }
+  ]
+}
